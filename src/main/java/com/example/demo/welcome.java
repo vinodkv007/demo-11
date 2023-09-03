@@ -9,7 +9,7 @@ public class welcome {
 	@RequestMapping("/")
 	public String welcomemessage()
 	{
-		return "this is a welcome message by vinod";
+		return "this is a welcome message by vinod and this is my second commit";
 		
 	}
 
